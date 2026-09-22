@@ -1,2 +1,2 @@
-# Plex-NFO-Pro
-Plex back up software, built in our spare time, to pulldown all fields into an NFO file and the downloading of poster, banner, logo square and banner artwork alongside your media.
+# Plex NFO Pro
+Plex backup software, built in our spare time, to pull down all fields into an NFO file and to download poster, banner, logo square and banner artwork alongside your media with a single click.
